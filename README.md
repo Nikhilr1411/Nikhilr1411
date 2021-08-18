@@ -1,7 +1,7 @@
 <h1 align="center"> Hey there 👋 <a href="#">Nikhil</a> here :v: </h1>
 <h2 align="center"> Coder :coffee: Front-End Developer :heart: </h2>
 
-<img align="left" width="250" height="350" src="https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg?compress=1&resize=400x300"/>
+<img align="left" width="300" height="350" src="https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg?compress=1&resize=400x300"/>
 
 <h3> About Me :star: </h3>
 
