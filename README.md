@@ -1,7 +1,7 @@
 <h1 align="center"> Hey there 👋 <a href="#">Nikhil</a> here :v: </h1>
 <h2 align="center"> Coder :coffee: Front-End Developer :heart: </h2>
 
-<img align="left" width="300" height="350" src="https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg?compress=1&resize=400x300"/>
+<img align="left" width="320" height="350" src="https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg?compress=1&resize=400x300"/>
 
 <h3> About Me :star: </h3>
 
@@ -58,7 +58,7 @@
 
 <h4> <details> <summary> Languages Used :wrench: </summary> <p align="center"> <br> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilr1411&layout=compact&theme=radical"/> </details> </h4>
 
-<h4> <details> <summary> GitHub Streak :fire: </summary> <p align="center"> <br> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiruba-r11&theme=radical"/> </details> </h4>
+<h4> <details> <summary> GitHub Streak :fire: </summary> <p align="center"> <br> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhilr1411&theme=radical"/> </details> </h4>
 
 <h4> <details> <summary> GitHub Trophies :trophy: </summary> <p align="center"> <br> <br> <img width=500 src="https://github-profile-trophy.vercel.app/?username=Nikhilr1411&theme=monokai&column=3&margin-w=15&margin-h=15"/> </details> </h4>
 
