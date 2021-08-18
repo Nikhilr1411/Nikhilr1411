@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://www.linkedin.com/in/kirubanand-r-2008271aa/"> 
+      <a href="https://www.linkedin.com/in/nikhil-r-7a6446214"> 
         <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
       </a> 
     </td>
@@ -32,7 +32,7 @@
       </a>
     </td>
     <td>
-      <a href="https://www.hackerrank.com/prdkiruba"> 
+      <a href="https://www.hackerrank.com/nikhilrajendran1"> 
         <img height="30" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> 
       </a>
     </td>
@@ -43,13 +43,13 @@
 
 <h3> Languages and Tools :bulb: </h3>
 <p>
-<img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-<img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
-<img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
-<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg"/>
-<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/html5-1.svg"/>
-<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/css-5.svg"/>
-<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
+<img width="50" height="60" hspace="20" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"/>
+<img width="50" height="60" hspace="20" src="https://seeklogo.com/images/C/css3-logo-FD8D698B77-seeklogo.com.png"/>
+<img width="50" height="50" hspace="20" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"/>
+<img width="50" height="50" hspace="20" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg"/>
+<img width="50" height="50" hspace="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+<img width="50" height="50" hspace="20" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
+<img width="50" height="50" hspace="20" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
 </p>
 
 ---
